@@ -1,11 +1,11 @@
 ### Hi there 👋
-:muscle: :muscle: 
+💪 💪
 
 1. 👨🏻‍💻 Android Developer
 1. 🚧 Working at ...
 1. 🖥 Developing in Java and Kotlin
-1. 🌐 Speak 
-1. ✨ He/Him
+1. 🌐 Speak 🇨🇳 🇺🇸 
+1. ✨ He/Him 
 <!--
 **mufaith/mufaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
